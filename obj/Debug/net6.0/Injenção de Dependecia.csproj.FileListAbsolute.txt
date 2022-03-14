@@ -1,0 +1,27 @@
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\appsettings.json
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Injenção de Dependecia.exe
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Injenção de Dependecia.deps.json
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Injenção de Dependecia.runtimeconfig.json
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Injenção de Dependecia.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\ref\Injenção de Dependecia.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Injenção de Dependecia.pdb
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.csproj.AssemblyReference.cache
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.AssemblyInfoInputs.cache
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.AssemblyInfo.cs
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\scopedcss\bundle\Injenção de Dependecia.styles.css
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.csproj.CopyComplete
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\ref\Injenção de Dependecia.dll
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.pdb
+C:\Users\Aldo Luiz\Documents\Estudos\c#\Injenção de Dependecia\Injenção de Dependecia\obj\Debug\net6.0\Injenção de Dependecia.genruntimeconfig.cache
