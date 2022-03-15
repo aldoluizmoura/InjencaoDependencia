@@ -9,11 +9,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<IOperacaoTransiente, Operacao>();
-builder.Services.AddScoped<IOperacaoSccoped, Operacao>();
-builder.Services.AddSingleton<IOperacaoSingleton, Operacao>();
-
 var app = builder.Build();
+
+builder.Services.AddTransient<IOperacao, PrimeiraOperacao>();
+builder.Services.AddScoped<IOperacao, SegundaOperacao>();
+builder.Services.AddSingleton<IOperacao, TerceiraOperacao>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

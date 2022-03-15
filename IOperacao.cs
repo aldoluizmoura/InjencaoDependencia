@@ -5,11 +5,6 @@
         public Guid Id{ get; set; }
     }
 
-
-    public interface IOperacaoTransiente : IOperacao { }
-    public interface IOperacaoSccoped : IOperacao { }
-    public interface IOperacaoSingleton : IOperacao { }
-
 }
 
 

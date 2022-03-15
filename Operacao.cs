@@ -1,12 +1,16 @@
 namespace Injenção_de_Dependecia
 {
-    public class Operacao : IOperacaoTransiente, IOperacaoSccoped, IOperacaoSingleton
+    public abstract class Operacao : IOperacao
     {
         public Guid Id{ get; set; }
 
-        public Operacao()
+        protected Operacao()
         {
             Id = Guid.NewGuid();
         }
     }
+
+    public class PrimeiraOperacao : Operacao { }
+    public class SegundaOperacao : Operacao { }
+    public class TerceiraOperacao : Operacao { }
 }

@@ -6,32 +6,22 @@ namespace Injenção_de_Dependecia.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private readonly IOperacaoTransiente _operacaoTransiente;
-        private readonly IOperacaoSccoped _operacaoSccoped;
-        private readonly IOperacaoSingleton _operacaoSingleton;
-        public WeatherForecastController(IOperacaoTransiente operacaoTransiente,
-                           IOperacaoSccoped operacaoSccoped,
-                           IOperacaoSingleton operacaoSingleton)
+       private readonly IOperacao _operacao;
+       private readonly IEnumerable<IOperacao> _operacoes;
+        public WeatherForecastController(IOperacao operacao, IEnumerable<IOperacao> operacoes)
         {
-            _operacaoTransiente = operacaoTransiente;
-            _operacaoSccoped = operacaoSccoped;
-            _operacaoSingleton = operacaoSingleton;
+           _operacao = operacao;
+            _operacoes = operacoes;
         }    
         
         [HttpGet("FromConstrutor")]
-        public IActionResult Construtor([FromServices] IOperacaoSccoped operacaoSccoped,
-                                        [FromServices] IOperacaoTransiente operacaoTransiente,
-                                        [FromServices] IOperacaoSingleton operacaoSingleton)
+        public IActionResult Construtor()
         {
             return Ok(new
             {
-                Transient = _operacaoTransiente.Id,
-                Sccoped = _operacaoSccoped.Id,
-                Singleton = _operacaoSingleton.Id,
-
-                Transient02 = operacaoSccoped.Id,
-                Sccoped02 = operacaoTransiente.Id,
-                Singleton02 = operacaoSingleton.Id
+                Primeiro = _operacoes.FirstOrDefault(x=>x is PrimeiraOperacao)?.Id,
+                Segundo = _operacoes.FirstOrDefault(x => x is SegundaOperacao)?.Id,
+                Terceiro = _operacoes.FirstOrDefault(x => x is TerceiraOperacao)?.Id
             });
         }
     }
